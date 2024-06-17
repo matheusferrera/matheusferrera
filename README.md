@@ -1,7 +1,8 @@
 # 📚  About Me:
 Graduated in Network Engineering from UnB (University of Brasília), I am passionate about design, programming, and technology. With 7 years of experience in development, I have worked in challenging environments for renowned companies, including banks and multinationals. I apply my extensive knowledge to deliver robust code following the best market practices used by leading players.
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/matheusferris) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matheus.ferris) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/556182501719) 
+
 <br><br>
 
 # 💫 Currently:
@@ -11,10 +12,9 @@ Graduated in Network Engineering from UnB (University of Brasília), I am passio
 
 💬 Feel free to ask me about APIs, full-stack development, or any of my current projects. I'm always open to discussing new ideas and opportunities.
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/matheusferris) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matheus.ferris) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/556182501719) 
-<br><br><br><br>
+<br><br>
 
 
 # 💻 Main Stack:
@@ -29,5 +29,6 @@ I focus on fullstack development, utilizing the latest and best technologies to 
 #### Hosting
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
  <br><br>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusferrera&theme=light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusferrera&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
