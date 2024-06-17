@@ -1,3 +1,11 @@
+<div align="center">
+ <h2>
+  Welcome to my github
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h2>
+ </div>
+
+
 # 📚  About Me:
 Graduated in Network Engineering from UnB (University of Brasília), I am passionate about design, programming, and technology. With 7 years of experience in development, I have worked in challenging environments for renowned companies, including banks and multinationals. I apply my extensive knowledge to deliver robust code following the best market practices used by leading players.
 
