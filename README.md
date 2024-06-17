@@ -1,5 +1,15 @@
-# 💫 About Me:
-🔭 I’m currently working on BRB, IBICT and some freelancer's job<br>💬 Ask me about a API's
+# 📚  About Me:
+Graduated in Network Engineering from UnB (University of Brasília), I am passionate about design, programming, and technology. With 7 years of experience in development, I have worked in challenging environments for renowned companies, including banks and multinationals. I apply my extensive knowledge to deliver robust code following the best market practices used by leading players.
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<br><br>
+
+# 💫 Currently:
+🔭 I currently work as an IT Analyst at BRB Bank and as a registered researcher at IBICT. My role at BRB involves handling complex IT challenges and ensuring smooth operations. At IBICT, I contribute to various research projects, leveraging my expertise in technology and development.
+
+⚡ I've been focusing on the WhatsApp API, exploring its capabilities to create innovative communication solutions. Whether it's for automating tasks, building chatbots, or enhancing user interactions, I find the possibilities with the WhatsApp API both exciting and impactful.
+
+💬 Feel free to ask me about APIs, full-stack development, or any of my current projects. I'm always open to discussing new ideas and opportunities.
 
 
 ### 🌐 Socials:
@@ -16,9 +26,6 @@
 ![mongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![oracleDB2](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white) 
 #### Hosting
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+ <br><br>
 
-### 📊 Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusferrera&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusferrera&theme=light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
