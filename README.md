@@ -27,6 +27,7 @@ Graduated in Network Engineering from UnB (University of Brasília), I am passio
 
 # 💻 Main Stack:
 I focus on fullstack development, utilizing the latest and best technologies to deliver robust code following industry best practices.
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 <br>
 #### Frontend stack 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)_ ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
@@ -39,4 +40,5 @@ I focus on fullstack development, utilizing the latest and best technologies to 
  <br><br>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusferrera&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+
 </div>
